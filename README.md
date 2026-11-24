@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # QueryBench — SQL Interview Workbench
 
 An interactive, browser-based SQL practice and interview preparation workbench powered by **React**, **TypeScript**, **Vite**, **Tailwind CSS**, and **sql.js** (SQLite compiled to WebAssembly).
@@ -77,3 +78,6 @@ npm run dev
 ├── tsconfig.json
 └── vite.config.ts
 ```
+=======
+# query-bench
+>>>>>>> 0fd5aab179a8b5183bc1d5ae58dc99604a412c5d
